@@ -1,16 +1,18 @@
 # Sega Master System Quick Solder BIOS
 
-The SEGA Master System Quick Solder BIOS is an additional BIOS that can solder beneath the original BIOS to enable multiBIOS operation. It is designed to compliment the switchless region & BIOS support mod kits which can enable the BIOS when set for the extended region modes. Combined with the switchless region & BIOS support mod kit, the BIOS is operated switchlessly.
+The SEGA Master System Quick Solder BIOS is an additional BIOS that can solder beneath the original BIOS to enable multiBIOS operation. It is designed to compliment the switchless region & BIOS support mod kits which can enable the BIOS when set for the extended region modes. Combined with the switchless region & BIOS support mod kit, the BIOS is operated switchlessly. It can also be installed conventionally with a switch, but that would be silly.
 
 ## Requirements
 
 1 - A SEGA Master System with a 28-Pin BIOS.
 
-2 - A switchless region & BIOS support mod kit installed.
+2 - A switchless region & BIOS support mod kit installed (for switchless operation).
+
+3 - A SPDT (On-On) switch (for switch operation)
 
 ## Compatibility
 
-Currently it only supports piggybacking on a 28-Pin BIOS. 32-Pin BIOS support will be added.
+Currently it only supports piggybacking on a 28-Pin BIOS. 32-Pin BIOS support will be added, if possible.
 
 It should work with any Master System with a 28-Pin BIOS.
 
