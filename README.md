@@ -8,9 +8,13 @@ The SEGA Master System Quick Solder BIOS is an additional BIOS that can solder b
 
 1 - A SEGA Master System with a 28-Pin BIOS.
 
+AND
+
 2 - A switchless region & BIOS support mod kit installed (for switchless operation).
 
-3 - A SPDT (On-On) switch (for switch operation)
+OR
+
+2 - A SPDT (On-On) switch and 2 x 1-kilohm Resistors (for switch operation)
 
 ## Compatibility
 
