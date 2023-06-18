@@ -32,6 +32,11 @@ It should work with any Master System with a 28-Pin BIOS.
 
 32-Pin BIOS support
 
+## Version History
+
+- Quick Solder BIOS v1.0 - 19/11/2022
+- Quick solder BIOS v1.1 - 06/05/2023
+
 ## License
 
 If you use this in any way, shape or form, you must include a link back to this repository and mention me by name on any sales pages and social media posts. Not only will this help me to keep designing mod kits and offering them to the community, but it is basic common courtesy as well. Don't be a douchebag. :)
